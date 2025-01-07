@@ -100,9 +100,10 @@ body {
 }
 
 .titulo {
+    color: rgba(30,57,50,1);
+    font-weight: 600;
     font-size: 48px;
     line-height: 56px;
-    color: rgba(30,57,50,1);
     text-align: center;
     margin-bottom: 20px;
 }
@@ -131,4 +132,26 @@ body {
 .image_logo {
     width: 50%;
     height: 24%;
+}
+
+.segundo_container {
+    background-color: rgba(255,255,162,0.87);
+}
+
+.segundo_parrafo {
+    color: rgba(30, 57, 50, 1);
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 32px;
+}
+
+.tercer_container {
+    background-color: rgba(255, 197, 109, 0.81);
+}
+
+.tercer_parrafo {
+    color: rgba(30, 57, 50, 1);
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 32px;
 }
